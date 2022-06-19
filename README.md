@@ -10,7 +10,7 @@
 --------------------------------------------------------------------
 <img src="https://s2.loli.net/2022/05/31/oJT6qV25x8hd7Lg.jpg"/></br>
 --------------------------------------------------------------------
-DEMO：https://api.titti.cn/i/kvideo/</br>
+DEMO：https://api.titti.cn/i/kvideo</br>
 
 【博客】：https://titti.cn/</br>
 【TG群】：https://t.me/titti_cn</br>
