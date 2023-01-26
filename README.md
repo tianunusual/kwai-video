@@ -8,7 +8,7 @@
 4.需要添加视频源的在ks.txt里面。</br>
 
 --------------------------------------------------------------------
-
-【博客】：https://titti.cn/</br>
-【TG群】：https://t.me/adultdow</br>
-【QQ群】：123402033</br>
+【DEMO】：https://kwai.eoole.cn/</br>
+【BLOG】：https://blog.eoole.cn/</br>
+【TG Group】：https://t.me/adultdow</br>
+【QQ Group】：123402033</br>
