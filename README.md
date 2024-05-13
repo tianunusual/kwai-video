@@ -31,7 +31,7 @@
 
 ---
 
-> [@Blog](https://blog.uidian.net) · [@Google](https://www.9t.ee) · [@网盘列表](https://drive.upan.ee) · 
+> [@Blog](https://blog.mc.ci/) · [@Google](https://www.9t.ee) · [@网盘列表](https://drive.upan.ee) · 
 
 ### Support it
 
