@@ -1,5 +1,7 @@
 # kwai-video
 快手短视频在线，内置视频（有能力的可以自己添加）
+DEMO：https://api.mc.ci/kwai
+
 
 说明:</br>
 1.简易播放器，自定连续播放。</br>
@@ -25,9 +27,10 @@
 ### belongs to us
 
 - *.9t.ee
-- *.upan.ee
-- *.ane.ee
-- *.uidian.net
+- *.mc.ci
+- *.5h.hk
+- *.ks.gs
+
 
 ---
 
