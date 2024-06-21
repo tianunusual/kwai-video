@@ -11,9 +11,8 @@ DEMO：https://api.mc.ci/kwai
 
 --------------------------------------------------------------------
 ### Contact Me
-- E-mail：about@9t.ee
-- QQ Number：577766600
-- Telegram：[@udian](https://t.me/uidian)
+- E-mail：about@mc.ci
+- Telegram：[@udian]([https://t.me/uidian](https://t.me/uidian))
 - Twitter：[@doogluo](https://twitter.com/doogluo)
 - Weibo：[@李木晚晚晚晚](https://weibo.com/chinazcwl)
 - GitHub：[@李木晚晚晚晚](https://github.com/tianunusual)
@@ -34,7 +33,7 @@ DEMO：https://api.mc.ci/kwai
 
 ---
 
-> [@Blog](https://blog.mc.ci/) · [@Google](https://www.9t.ee) · [@网盘列表](https://drive.upan.ee) · 
+> [@Blog](https://blog.mc.ci/) · @OSS列表](https://buck.mc.ci) ·  · [@网盘列表](https://drive.mc.ci) · 
 
 ### Support it
 
