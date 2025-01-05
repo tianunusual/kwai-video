@@ -1,6 +1,6 @@
 # kwai-video
 快手短视频在线，内置视频（有能力的可以自己添加）</br>
-DEMO：https://api.mc.ci/kwai
+DEMO：https://api.mc.ci/kwai </br>
 视频源：https://api.mc.ci/kwai/url.txt
 
 
