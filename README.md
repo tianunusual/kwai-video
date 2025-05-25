@@ -2,7 +2,7 @@
 快手短视频在线，内置视频（有能力的可以自己添加）</br>
 DEMO：https://api.xk.ee/kwai </br>
 视频源：https://api.xk.ee/kwai/url.txt
-
+<img src="https://apac.ele.cm/Github/image/magnet.jp)"/>
 
 说明:</br>
 1.简易播放器，自定连续播放。</br>
@@ -12,9 +12,9 @@ DEMO：https://api.xk.ee/kwai </br>
 
 --------------------------------------------------------------------
 ### Contact Me
-- E-mail：about@xk.ee
-- Telegram：[@hi_mcc](https://t.me/hi_foxm)
-- Twitter：[@消失的狐狸菌](https://x.com/hi_foxm)
+- E-mail：hi@xk.ee
+- Telegram：[@Jun_disappear](https://t.me/@Jun_disappear)
+- Twitter：[@消失的狐狸菌](https://x.com/Jun_disappear)
 - GitHub：[@消失的狐狸菌](https://github.com/tianunusual)
 
 ### My group chat
@@ -24,14 +24,10 @@ DEMO：https://api.xk.ee/kwai </br>
 
 ### belongs to us
 
-- *.9t.ee
-- *.mc.ci
 - *.xk.ee
-- *.005**1.xyz
-- *.001**1.xyz
-
+- *.ele.cm
+- *.ku.kg
+- *.douke.org
 ---
 
-> [@Blog](https://blog.xk.ee/) · [@OSS列表](https://buck.mc.ci) · 
-
-
+> [@Blog](https://blog.xk.ee/) · [@IPPA列表](https://list.xk.ee) · 
