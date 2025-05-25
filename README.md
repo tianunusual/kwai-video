@@ -2,7 +2,7 @@
 快手短视频在线，内置视频（有能力的可以自己添加）</br>
 DEMO：https://api.xk.ee/kwai </br>
 视频源：https://api.xk.ee/kwai/url.txt
-<img src="https://apac.ele.cm/Github/image/magnet.jp)"/>
+<img src="https://apac.ele.cm/Github/image/magnet.jp"/>
 
 说明:</br>
 1.简易播放器，自定连续播放。</br>
