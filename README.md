@@ -2,6 +2,7 @@
 快手短视频在线，内置视频（有能力的可以自己添加）</br>
 DEMO：https://api.xk.ee/kwai </br>
 视频源：https://api.xk.ee/kwai/url.txt
+
 <img src="https://apac.ele.cm/Github/image/kwai-video.jpg"/>
 
 说明:</br>
@@ -9,7 +10,7 @@ DEMO：https://api.xk.ee/kwai </br>
 2.API调用为：你的域名/api.php</br>
 3.视频源存储第三方，内置了1500条左右</br>
 4.需要添加视频源的在ks.txt里面。</br>
-
+# 更多API：https://api.xk.ee/doc.html
 --------------------------------------------------------------------
 ### Contact Me
 - E-mail：hi@xk.ee
